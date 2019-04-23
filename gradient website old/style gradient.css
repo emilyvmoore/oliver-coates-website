@@ -4,7 +4,6 @@ body
   padding: 0px;
   margin: 0px;
   font-family: Arial;
-  color: #ffffff;
   width: 400px;
 }
 
@@ -17,7 +16,7 @@ body
 }
 
 a:link, a:visited {
-    color: gray;
+    color: blue;
     text-decoration: none;
     cursor: auto;
 }
@@ -27,6 +26,6 @@ a:hover {
 }
 
 a:link:active, a:visited:active {
-    color: gray;
+    color: blue;
 
 }

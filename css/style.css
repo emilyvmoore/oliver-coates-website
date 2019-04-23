@@ -4,7 +4,9 @@ body
   padding: 0px;
   margin: 0px;
   font-family: Arial;
+  color: #ffffff;
   width: 400px;
+  text-align: center;
 }
 
 #gradient
@@ -16,7 +18,7 @@ body
 }
 
 a:link, a:visited {
-    color: blue;
+    color: gray;
     text-decoration: none;
     cursor: auto;
 }
@@ -26,6 +28,6 @@ a:hover {
 }
 
 a:link:active, a:visited:active {
-    color: blue;
+    color: gray;
 
 }
