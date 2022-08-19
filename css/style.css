@@ -3,7 +3,7 @@ body
   background-color: #020202;
   padding: 0px;
   margin: 0px;
-  @font-face Goudy Old Style
+  font-family: Goudy Old Style;
   color: #f7f8f9;
   width: 400px;
   text-align: center;
