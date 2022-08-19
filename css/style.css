@@ -3,8 +3,6 @@ body
   background-color: #020202;
   padding: 0px;
   margin: 0px;
-  font-family:
-    @font-face {
     font-family: 'redactionregular';
     src: url('redaction-regular-webfont.woff2') format('woff2'),
          url('redaction-regular-webfont.woff') format('woff');
