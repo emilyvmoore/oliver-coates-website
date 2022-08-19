@@ -3,11 +3,7 @@ body
   background-color: #020202;
   padding: 0px;
   margin: 0px;
-    
-  font-family: Goudy Old Style
-   font-weight: normal;
-   font-style: normal;
-}
+  font-family: Goudy Old Style;
   color: #f7f8f9;
   width: 400px;
   text-align: center;
@@ -22,7 +18,7 @@ body
 }
 
 a:link, a:visited {
-    color: #B9D1F3;
+    color: #435484;
     text-decoration: none;
     cursor: auto;
 }
@@ -32,6 +28,6 @@ a:hover {
 }
 
 a:link:active, a:visited:active {
-    color: #B9D1F3;
+    color: #435484;
 
 }
