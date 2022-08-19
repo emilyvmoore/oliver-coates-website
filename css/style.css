@@ -3,7 +3,12 @@ body
   background-color: #020202;
   padding: 0px;
   margin: 0px;
-  font-family: Goudy Old Style;
+  @font-face {
+    font-family: 'redactionregular';
+    src: url('redaction-regular-webfont.woff2') format('woff2'),
+         url('redaction-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
   color: #f7f8f9;
   width: 400px;
   text-align: center;
