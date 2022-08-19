@@ -18,7 +18,7 @@ body
 }
 
 a:link, a:visited {
-    color: #435484;
+    color: #B9D1F3;
     text-decoration: none;
     cursor: auto;
 }
@@ -28,6 +28,6 @@ a:hover {
 }
 
 a:link:active, a:visited:active {
-    color: #435484;
+    color: #B9D1F3;
 
 }
