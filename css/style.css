@@ -3,9 +3,7 @@ body
   background-color: #020202;
   padding: 0px;
   margin: 0px;
-    font-family: 'redactionregular';
-    src: url('redaction-regular-webfont.woff2') format('woff2'),
-         url('redaction-regular-webfont.woff') format('woff');
+    font-family: Goudy Old Style
     font-weight: normal;
     font-style: normal;
 
