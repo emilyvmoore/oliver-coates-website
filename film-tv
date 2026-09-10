@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Film & TV</title>
+  <link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+
+<body id="gradient">
+
+    <div align="center" style="bottom:10px;">
+        <p>
+          <a href="./about.html">About</a>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="./releases.html">Releases</a>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="./listen.html">Listen</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </p>
+
+<p>Aftersun – Charlotte Wells (A24)</p>
+<p>Pillion – Harry Lighton (A24)</p>
+<p>Occupied City – Steve McQueen (A24)</p>
+<p>The Witness – Alex Winckler (three-part Netflix / STV series)</p>
+<p>The Stranger – Thomas M. Wright (See-Saw / Netflix)</p>
+<p>Foe – Garth Davis (Amazon)</p>
+<p>The History of Sound – Oliver Hermanus (Mubi / Focus Features)</p>
+<p>100 Nights of Hero – Julia Jackman (IFC / Vue Lumière)</p>
+<p>Mary & George – Oliver Hermanus (Sky series)</p>
+<p>Significant Other – Dan Berk & Robert Olsen (Paramount Plus)</p>
+<p>Dammi – Yann Demange (Mubi)</p>
+<p>Close to You – Dominic Savage (Greenwich / Vertigo)</p>
+<p>A Hand Rises – Louise Stern</p>
+<p>Black Church Bay – Rhys Marc Jones</p>
+<p>Every Day I Go Home – Omi Zola Gupta</p>
+<p>The End – Clare Hoey</p>
+<p>The Incident – Bonnie Moir & Lucy Moir</p>
+
+<p>&nbsp;</p>
+<p>Also playing cello on scores:</p>
+<p>&nbsp;</p>
+
+<p>Under the Skin - Mica Levi</p>
+<p>Phantom Thread - Jonny Greenwood</p>
+<p>The Master - Jonny Greenwood</p> 
+
+          <img src="./img/P1020069aboutsm.jpg" width="385">
+          <br><br>
+          <br><br>
+
+        <div id="cv" style="display: block; margin: 10px 0; padding: 10px; width: 520px;">
+
+         </div>
+
+    </div>
+
+</body>
+</html>
